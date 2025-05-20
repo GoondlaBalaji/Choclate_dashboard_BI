@@ -103,5 +103,5 @@ Low-performing items to reevaluate
 Logistics can improve shipment strategies by understanding average order sizes and regional volume variations.
 
 ### 6.	Screenshots / Demos
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Show what the dashboard looks like. - ![Alt text]([https://github.com/username/repo/assets/image.png](https://github.com/GoondlaBalaji/Choclate_dashboard_BI/blob/main/Screenshot%202025-05-20%20123103.png))
 Example: ![Dashboard Preview]([Screenshot 2025-05-20 123103.png](https://github.com/GoondlaBalaji/Choclate_dashboard_BI/blob/main/Screenshot%202025-05-20%20123103.png))
